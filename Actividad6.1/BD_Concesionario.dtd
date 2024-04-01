@@ -1,0 +1,8 @@
+<!ELEMENT Concesionario (coche*)>
+<!ELEMENT coche (Cod_Coche, Marca, Modelo, Año, Color, Precio)>
+<!ELEMENT Cod_Coche (#PCDATA)>
+<!ELEMENT Marca (#PCDATA)>
+<!ELEMENT Modelo (#PCDATA)>
+<!ELEMENT Año (#PCDATA)>
+<!ELEMENT Color (#PCDATA)>
+<!ELEMENT Precio (#PCDATA)>
