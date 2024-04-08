@@ -1,6 +1,7 @@
 xquery version "1.0";
 
-for $libro in doc('file:///c%3A/Users/dsanvaz2103/Desktop/1DAW/Lenguaje%20de%20marcas/UD6/Actividad6.1/BD_Libros.xml')/Libros/libro
+for $libro in doc('BD_Libros.xml')/Libros/libro
+where $libro/NumPaginas > 500
 return
 <libro>
     <Cod_Libro>{data($libro/Cod_Libro)}</Cod_Libro>

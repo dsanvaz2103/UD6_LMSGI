@@ -1,2 +1,5 @@
 12:09:28.390  INFO  [LibraryManager] ---- group creation in C:\Users\dsanvaz2103\Desktop\1DAW\Lenguaje de marcas\UD6\GrupoLibreriasXML
 12:09:28.390  INFO  [LibraryManager]  100
+12:47:38.299  INFO  [LibraryManager] shutdown begins
+12:47:38.304  INFO  [LibraryManager]  closed library BD_BailesDeSalon
+12:47:38.304  INFO  [LibraryManager] shutdown complete.

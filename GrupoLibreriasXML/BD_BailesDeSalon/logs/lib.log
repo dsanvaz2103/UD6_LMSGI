@@ -19,3 +19,29 @@
 12:11:24.776  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 docs: 14 in ms 0.0679
 12:11:24.776  INFO  [lib BD_BailesDeSalon] commit end BD_BailesDeSalon (session 1) -> state: [ 1 2 3 ][ 1 2 3 4 ]
 12:11:24.776  INFO  [lib BD_BailesDeSalon] sweeper deleted 2/2 metadocs: 15, 17
+12:37:02.232  INFO  [lib BD_BailesDeSalon] commit start BD_BailesDeSalon (session 1)
+12:37:02.247  INFO  [lib BD_BailesDeSalon] commit 4 on BD_BailesDeSalon (session 1)
+12:37:02.261  INFO  [lib BD_BailesDeSalon] commit 4 done
+12:37:02.261  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 docs: 21 in ms 0.035099
+12:37:02.261  INFO  [lib BD_BailesDeSalon] commit end BD_BailesDeSalon (session 1) -> state: [ 1 2 3 4 ][ 1 2 3 4 5 ]
+12:37:02.261  INFO  [lib BD_BailesDeSalon] sweeper deleted 2/2 metadocs: 23, 25
+12:37:04.321  INFO  [lib BD_BailesDeSalon] commit start BD_BailesDeSalon (session 1)
+12:37:04.338  INFO  [lib BD_BailesDeSalon] commit 5 on BD_BailesDeSalon (session 1)
+12:37:04.351  INFO  [lib BD_BailesDeSalon] commit 5 done
+12:37:04.351  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 docs: 28 in ms 0.057301
+12:37:04.351  INFO  [lib BD_BailesDeSalon] commit end BD_BailesDeSalon (session 1) -> state: [ 1 2 3 4 5 ][ 1 2 3 4 5 6 ]
+12:37:04.352  INFO  [lib BD_BailesDeSalon] sweeper deleted 2/2 metadocs: 29, 31
+12:44:27.257  INFO  [lib BD_BailesDeSalon] commit start BD_BailesDeSalon (session 1)
+12:44:27.258  INFO  [lib BD_BailesDeSalon] commit 6 on BD_BailesDeSalon (session 1)
+12:44:27.270  INFO  [lib BD_BailesDeSalon] commit 6 done
+12:44:27.270  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 docs: 20 in ms 0.0713
+12:44:27.270  INFO  [lib BD_BailesDeSalon] sweeper deleted 2/2 metadocs: 22, 37
+12:44:27.270  INFO  [lib BD_BailesDeSalon] commit end BD_BailesDeSalon (session 1) -> state: [ 1 2 3 4 5 ][ 1 2 3 4 5 6 7 ]
+12:44:46.376  INFO  [lib BD_BailesDeSalon] commit start BD_BailesDeSalon (session 1)
+12:44:46.393  INFO  [lib BD_BailesDeSalon] commit 7 on BD_BailesDeSalon (session 1)
+12:44:46.408  INFO  [lib BD_BailesDeSalon] commit 7 done
+12:44:46.408  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 metadocs: 41
+12:44:46.408  INFO  [lib BD_BailesDeSalon] commit end BD_BailesDeSalon (session 1) -> state: [ 1 2 3 4 5 6 ][ 1 2 3 4 5 6 7 8 ]
+12:47:38.302  INFO  [lib BD_BailesDeSalon] All sessions closed
+12:47:38.303  INFO  [lib BD_BailesDeSalon] Sweeper stopped
+12:47:38.304  INFO  [lib BD_BailesDeSalon] library closed 
