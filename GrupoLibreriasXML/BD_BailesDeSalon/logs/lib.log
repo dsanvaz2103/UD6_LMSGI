@@ -2,3 +2,20 @@
 12:10:40.580  INFO  [lib BD_BailesDeSalon] create storage in C:\Users\dsanvaz2103\Desktop\1DAW\Lenguaje de marcas\UD6\GrupoLibreriasXML\BD_BailesDeSalon\contents.qdb
 12:10:40.582  INFO  [lib BD_BailesDeSalon] storage created
 12:10:40.602  INFO  [lib BD_BailesDeSalon] library creation done
+12:11:12.632  INFO  [lib BD_BailesDeSalon] commit start BD_BailesDeSalon (session 1)
+12:11:12.647  INFO  [lib BD_BailesDeSalon] commit 1 on BD_BailesDeSalon (session 1)
+12:11:12.662  INFO  [lib BD_BailesDeSalon] commit 1 done
+12:11:12.662  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 metadocs: 5
+12:11:12.662  INFO  [lib BD_BailesDeSalon] commit end BD_BailesDeSalon (session 1) -> state: [ 1 ][ 1 2 ]
+12:11:17.669  INFO  [lib BD_BailesDeSalon] commit start BD_BailesDeSalon (session 1)
+12:11:17.681  INFO  [lib BD_BailesDeSalon] commit 2 on BD_BailesDeSalon (session 1)
+12:11:17.696  INFO  [lib BD_BailesDeSalon] commit 2 done
+12:11:17.697  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 docs: 8 in ms 0.064099
+12:11:17.697  INFO  [lib BD_BailesDeSalon] commit end BD_BailesDeSalon (session 1) -> state: [ 1 2 ][ 1 2 3 ]
+12:11:17.697  INFO  [lib BD_BailesDeSalon] sweeper deleted 2/2 metadocs: 9, 11
+12:11:24.738  INFO  [lib BD_BailesDeSalon] commit start BD_BailesDeSalon (session 1)
+12:11:24.760  INFO  [lib BD_BailesDeSalon] commit 3 on BD_BailesDeSalon (session 1)
+12:11:24.775  INFO  [lib BD_BailesDeSalon] commit 3 done
+12:11:24.776  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 docs: 14 in ms 0.0679
+12:11:24.776  INFO  [lib BD_BailesDeSalon] commit end BD_BailesDeSalon (session 1) -> state: [ 1 2 3 ][ 1 2 3 4 ]
+12:11:24.776  INFO  [lib BD_BailesDeSalon] sweeper deleted 2/2 metadocs: 15, 17
