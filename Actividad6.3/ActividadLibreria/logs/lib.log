@@ -2,3 +2,8 @@
 12:48:13.933  INFO  [lib ActividadLibreria] create storage in C:\Users\dsanvaz2103\Desktop\1DAW\Lenguaje de marcas\UD6\Actividad6.3\ActividadLibreria\contents.qdb
 12:48:13.935  INFO  [lib ActividadLibreria] storage created
 12:48:13.954  INFO  [lib ActividadLibreria] library creation done
+12:48:32.285  INFO  [lib ActividadLibreria] commit start ActividadLibreria (session 1)
+12:48:32.300  INFO  [lib ActividadLibreria] commit 1 on ActividadLibreria (session 1)
+12:48:32.315  INFO  [lib ActividadLibreria] commit 1 done
+12:48:32.316  INFO  [lib ActividadLibreria] commit end ActividadLibreria (session 1) -> state: [ 1 ][ 1 2 ]
+12:48:32.316  INFO  [lib ActividadLibreria] sweeper deleted 1/1 metadocs: 5
