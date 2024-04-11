@@ -2,21 +2,22 @@ xquery version "1.0";
 
 <html>
 <head>
-    <title>Libros de la Biblioteca</title>
+    <title>Libros de la Biblioteca con mas de 150 paginas</title>
 </head>
 <body>
     <table border="1">
         <tr>
-            <th>Código del Libro</th>
-            <th>Título</th>
+            <th>Codigo del Libro</th>
+            <th>Titulo</th>
             <th>Editorial</th>
-            <th>Edición</th>
+            <th>Edicion</th>
             <th>ISBN</th>
-            <th>Número de Páginas</th>
+            <th>Numero de Paginas</th>
             <th>Autores</th>
         </tr>
         {
             for $libro in doc('BD_Libros.xml')/Libros/libro
+            where $libro/NumPaginas > 150
             return
             <tr>
                 <td>{data($libro/Cod_Libro)}</td>

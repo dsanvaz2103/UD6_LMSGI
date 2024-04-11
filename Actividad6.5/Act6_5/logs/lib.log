@@ -1,0 +1,15 @@
+11:07:24.191  INFO  [lib Act6_5] Qizx 4.4p1 creating new XML Library in C:\Users\dsanvaz2103\Desktop\1DAW\Lenguaje de marcas\UD6\Actividad6.5\Act6_5
+11:07:24.192  INFO  [lib Act6_5] create storage in C:\Users\dsanvaz2103\Desktop\1DAW\Lenguaje de marcas\UD6\Actividad6.5\Act6_5\contents.qdb
+11:07:24.196  INFO  [lib Act6_5] storage created
+11:07:24.354  INFO  [lib Act6_5] library creation done
+11:19:48.612  INFO  [lib Act6_5] commit start Act6_5 (session 1)
+11:19:48.631  INFO  [lib Act6_5] commit 1 on Act6_5 (session 1)
+11:19:48.648  INFO  [lib Act6_5] commit 1 done
+11:19:48.649  INFO  [lib Act6_5] commit end Act6_5 (session 1) -> state: [ 1 ][ 1 2 ]
+11:19:48.649  INFO  [lib Act6_5] sweeper deleted 1/1 metadocs: 5
+11:20:34.532  INFO  [lib Act6_5] commit start Act6_5 (session 1)
+11:20:34.548  INFO  [lib Act6_5] commit 2 on Act6_5 (session 1)
+11:20:34.563  INFO  [lib Act6_5] commit 2 done
+11:20:34.563  INFO  [lib Act6_5] sweeper deleted 1/1 docs: 8 in ms 0.1245
+11:20:34.563  INFO  [lib Act6_5] commit end Act6_5 (session 1) -> state: [ 1 2 ][ 1 2 3 ]
+11:20:34.563  INFO  [lib Act6_5] sweeper deleted 2/2 metadocs: 9, 11
