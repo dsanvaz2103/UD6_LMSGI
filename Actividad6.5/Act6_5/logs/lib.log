@@ -13,3 +13,65 @@
 11:20:34.563  INFO  [lib Act6_5] sweeper deleted 1/1 docs: 8 in ms 0.1245
 11:20:34.563  INFO  [lib Act6_5] commit end Act6_5 (session 1) -> state: [ 1 2 ][ 1 2 3 ]
 11:20:34.563  INFO  [lib Act6_5] sweeper deleted 2/2 metadocs: 9, 11
+12:46:41.491  WARN  [lib Act6_5] crash detected, journal contains unwritten data
+12:46:41.500  WARN  [lib Act6_5] recovery from journal is starting
+12:46:41.503  WARN  [lib Act6_5] recovered
+12:46:41.506  WARN  [lib Act6_5] storage was not cleanly closed
+12:46:41.509  WARN  [lib Act6_5] Starting check of Data Storage
+12:46:41.512  ERROR [lib Act6_5] cannot open microfile 1: com.qizx.xlib.H.B: storage closed: C:\Users\dsanvaz2103\Desktop\1DAW\Lenguaje de marcas\UD6\Actividad6.5\Act6_5\contents.qdb
+12:46:41.515  ERROR [lib Act6_5] cannot open microfile 2: com.qizx.xlib.H.B: storage closed: C:\Users\dsanvaz2103\Desktop\1DAW\Lenguaje de marcas\UD6\Actividad6.5\Act6_5\contents.qdb
+12:46:41.518  ERROR [lib Act6_5] cannot open microfile 3: com.qizx.xlib.H.B: storage closed: C:\Users\dsanvaz2103\Desktop\1DAW\Lenguaje de marcas\UD6\Actividad6.5\Act6_5\contents.qdb
+12:46:41.521  ERROR [lib Act6_5] cannot open microfile 4: com.qizx.xlib.H.B: storage closed: C:\Users\dsanvaz2103\Desktop\1DAW\Lenguaje de marcas\UD6\Actividad6.5\Act6_5\contents.qdb
+12:46:41.524  ERROR [lib Act6_5] cannot open microfile 6: com.qizx.xlib.H.B: storage closed: C:\Users\dsanvaz2103\Desktop\1DAW\Lenguaje de marcas\UD6\Actividad6.5\Act6_5\contents.qdb
+12:46:41.527  ERROR [lib Act6_5] cannot open microfile 7: com.qizx.xlib.H.B: storage closed: C:\Users\dsanvaz2103\Desktop\1DAW\Lenguaje de marcas\UD6\Actividad6.5\Act6_5\contents.qdb
+12:46:41.530  ERROR [lib Act6_5] cannot open microfile 10: com.qizx.xlib.H.B: storage closed: C:\Users\dsanvaz2103\Desktop\1DAW\Lenguaje de marcas\UD6\Actividad6.5\Act6_5\contents.qdb
+12:46:41.534  ERROR [lib Act6_5] cannot open microfile 12: com.qizx.xlib.H.B: storage closed: C:\Users\dsanvaz2103\Desktop\1DAW\Lenguaje de marcas\UD6\Actividad6.5\Act6_5\contents.qdb
+12:46:41.537  ERROR [lib Act6_5] cannot open microfile 13: com.qizx.xlib.H.B: storage closed: C:\Users\dsanvaz2103\Desktop\1DAW\Lenguaje de marcas\UD6\Actividad6.5\Act6_5\contents.qdb
+12:46:41.539  ERROR [lib Act6_5] cannot open microfile 14: com.qizx.xlib.H.B: storage closed: C:\Users\dsanvaz2103\Desktop\1DAW\Lenguaje de marcas\UD6\Actividad6.5\Act6_5\contents.qdb
+12:46:41.543  ERROR [lib Act6_5] cannot open microfile 15: com.qizx.xlib.H.B: storage closed: C:\Users\dsanvaz2103\Desktop\1DAW\Lenguaje de marcas\UD6\Actividad6.5\Act6_5\contents.qdb
+12:46:41.546  ERROR [lib Act6_5] cannot open microfile 16: com.qizx.xlib.H.B: storage closed: C:\Users\dsanvaz2103\Desktop\1DAW\Lenguaje de marcas\UD6\Actividad6.5\Act6_5\contents.qdb
+12:46:41.549  ERROR [lib Act6_5] cannot open microfile 17: com.qizx.xlib.H.B: storage closed: C:\Users\dsanvaz2103\Desktop\1DAW\Lenguaje de marcas\UD6\Actividad6.5\Act6_5\contents.qdb
+12:46:41.553  ERROR [lib Act6_5] cannot open microfile 18: com.qizx.xlib.H.B: storage closed: C:\Users\dsanvaz2103\Desktop\1DAW\Lenguaje de marcas\UD6\Actividad6.5\Act6_5\contents.qdb
+12:46:41.556  ERROR [lib Act6_5] cannot open microfile 19: com.qizx.xlib.H.B: storage closed: C:\Users\dsanvaz2103\Desktop\1DAW\Lenguaje de marcas\UD6\Actividad6.5\Act6_5\contents.qdb
+12:46:41.558  INFO  [lib Act6_5] scanned microfiles: 15 / 15
+12:46:41.559  INFO  [lib Act6_5] checked allocators
+12:46:41.559  INFO  [lib Act6_5] mismatched extents in tmp Cmap: expect 8380-18000, find 8080-8140
+12:46:41.559  INFO  [lib Act6_5] comparison stops here
+12:46:41.559  ERROR [lib Act6_5] Storage Cmap is damaged: fixing it
+12:46:41.562  INFO  [lib Act6_5] Storage Cmap fixed
+12:46:41.601  INFO  [lib Act6_5] Library opened by Qizx 4.4p1
+12:46:41.601  INFO  [lib Act6_5]  location C:\Users\dsanvaz2103\Desktop\1DAW\Lenguaje de marcas\UD6\Actividad6.5\Act6_5
+12:46:41.601  INFO  [lib Act6_5]  document storage version=5, lastBId=19, BCount=15, maxA=502
+12:47:08.507  INFO  [lib Act6_5] commit start Act6_5 (session 1)
+12:47:08.585  INFO  [lib Act6_5] commit 3 on Act6_5 (session 1)
+12:47:08.605  INFO  [lib Act6_5] commit 3 done
+12:47:08.605  INFO  [lib Act6_5] commit end Act6_5 (session 1) -> state: [ 1 2 3 ][ 1 2 3 4 ]
+12:47:08.605  INFO  [lib Act6_5] sweeper deleted 1/1 docs: 14 in ms 0.4455
+12:47:08.605  INFO  [lib Act6_5] sweeper deleted 1/1 metadocs: 15
+12:47:15.008  INFO  [lib Act6_5] commit start Act6_5 (session 1)
+12:47:15.025  INFO  [lib Act6_5] commit 4 on Act6_5 (session 1)
+12:47:15.042  INFO  [lib Act6_5] commit 4 done
+12:47:15.042  INFO  [lib Act6_5] sweeper deleted 1/1 docs: 20 in ms 0.1112
+12:47:15.042  INFO  [lib Act6_5] sweeper deleted 1/1 metadocs: 21
+12:47:15.042  INFO  [lib Act6_5] commit end Act6_5 (session 1) -> state: [ 1 2 3 4 ][ 1 2 3 4 5 ]
+12:48:22.081  INFO  [lib Act6_5] commit start Act6_5 (session 1)
+12:48:22.097  INFO  [lib Act6_5] commit 5 on Act6_5 (session 1)
+12:48:22.113  INFO  [lib Act6_5] commit 5 done
+12:48:22.113  INFO  [lib Act6_5] sweeper deleted 1/1 docs: 24 in ms 0.0995
+12:48:22.113  INFO  [lib Act6_5] commit end Act6_5 (session 1) -> state: [ 1 2 3 4 5 ][ 1 2 3 4 5 6 ]
+12:48:22.113  INFO  [lib Act6_5] sweeper deleted 1/1 metadocs: 25
+12:49:16.343  INFO  [lib Act6_5] commit start Act6_5 (session 1)
+12:49:16.363  INFO  [lib Act6_5] commit 6 on Act6_5 (session 1)
+12:49:16.383  INFO  [lib Act6_5] commit 6 done
+12:49:16.384  INFO  [lib Act6_5] sweeper deleted 1/1 docs: 28 in ms 0.1199
+12:49:16.384  INFO  [lib Act6_5] commit end Act6_5 (session 1) -> state: [ 1 2 3 4 5 6 ][ 1 2 3 4 5 6 7 ]
+12:49:16.384  INFO  [lib Act6_5] sweeper deleted 1/1 metadocs: 29
+12:50:13.383  INFO  [lib Act6_5] commit start Act6_5 (session 1)
+12:50:13.398  INFO  [lib Act6_5] commit 7 on Act6_5 (session 1)
+12:50:13.414  INFO  [lib Act6_5] commit 7 done
+12:50:13.414  INFO  [lib Act6_5] sweeper deleted 1/1 docs: 32 in ms 0.098
+12:50:13.414  INFO  [lib Act6_5] commit end Act6_5 (session 1) -> state: [ 1 2 3 4 5 6 7 ][ 1 2 3 4 5 6 7 8 ]
+12:50:13.414  INFO  [lib Act6_5] sweeper deleted 1/1 metadocs: 33
+12:52:29.063  INFO  [lib Act6_5] All sessions closed
+12:52:29.066  INFO  [lib Act6_5] Sweeper stopped
+12:52:29.067  INFO  [lib Act6_5] library closed 

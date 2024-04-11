@@ -1,2 +1,8 @@
 11:06:56.736  INFO  [LibraryManager] ---- group creation in C:\Users\dsanvaz2103\Desktop\1DAW\Lenguaje de marcas\UD6\Actividad6.5
 11:06:56.736  INFO  [LibraryManager]  100
+12:46:41.454  INFO  [LibraryManager] ---- starting up ----
+12:46:41.455  INFO  [LibraryManager]  100
+12:46:41.602  INFO  [LibraryManager] Library group ready
+12:52:29.063  INFO  [LibraryManager] shutdown begins
+12:52:29.067  INFO  [LibraryManager]  closed library Act6_5
+12:52:29.067  INFO  [LibraryManager] shutdown complete.
